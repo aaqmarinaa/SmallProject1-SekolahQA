@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set advanced rulesThe settings below ar_328078</name>
+   <tag></tag>
+   <elementGuidId>9c69e9f3-04b1-4ee5-877e-ff34e96be744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_setting_div_custom']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_setting_div_custom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-group inline-block main-setting-radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_setting_div_custom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-reactid</name>
+      <type>Main</type>
+      <value>.0.0.1.2.1.0.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set advanced rulesThe settings below are for demo only. It WILL NOT be reflected to your account`s settings.UI MethodPop UpRedirectionActive Payment ChannelsAllCustom SelectCredit CardATM/Bank TransferGO-PAYCIMB ClicksMandiri ClickpayMandiri e-Cashe-Pay BRIBCA KlikPayKlikBCAIndosat DompetkuIndomaretKiosonGift Card IndonesiaCredit Card SettingsRecurring UserNormal1-Clicks2-Clicks (CVV: 123)3DS AuthenticationEnabledDisabledAcquiring BankDefaultBNIBCACIMB NiagaBRIMandiriMaybankPre-AuthWhen pre-auth is enabled, customers` balance will be held up to 7 days or until the transaction is captured by the Merchant. If the transaction is cancelled within the pre-auth period is active, refunds will be done without any waiting period.DisabledEnabledMandiri Points OnlyDisabledEnabledBNI Points OnlyDisabledEnabledInstallmentDisabledRequiredOptionalBNIBCAMandiriCIMBBRIMaybankOfflineATM/Bank Transfer SettingsCustom Permata VADisabledEnabledNumbers only. Length should be 10.Custom BCA VADisabledEnabledNumbers only. Length should be within 1 to 11.Custom BNI VADisabledEnabledNumbers only. Length should be within 1 to 8.Custom ExpiryDefault1 minute5 minutesMerchant SettingsSandbox KeysDisabledEnabledOnly input your SANDBOX Server-Key and Client-Key. Access Keys↗Try changing Snap's settings in your MAP Dashboard and see it live here. Snap Preferences↗</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_setting_div_custom&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='main_setting_div_custom']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div[2]/div[3]/div[2]/div/div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default payment expiration time (24 hours)'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom VA Numbers disabled'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[4]</value>
+   </webElementXpaths>
+</WebElementEntity>
